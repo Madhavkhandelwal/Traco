@@ -33,4 +33,3 @@ public class Signup {
 		driver.findElement(By.id("sub_btn_setpass")).click();
 	}
 }
-
